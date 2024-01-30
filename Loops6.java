@@ -9,5 +9,6 @@ public class Loops6 {
             sum = sum + i;
         }
         System.out.println(sum);
+        sc.close();
     }
 }
