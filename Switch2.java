@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Arithmetic2 {
+public class Switch2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
          int months = sc.nextInt();
