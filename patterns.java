@@ -1,9 +1,14 @@
 import java.util.*;
 public class patterns {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
+    public static void main(String[] args) {         
+         int n = 4;
+         int m = 5;
 
-        for(int )
+        for(int i = 1; i<=n; i++ ) {
+            for(int j = 1; j<=m; j++) {
+                System.out.print("*");
+            }
+            System.out.println();
+        }
     }
 }
