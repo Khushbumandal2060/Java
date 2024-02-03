@@ -1,7 +1,7 @@
-import java.util.*;
+import java.util.Scanner;
 
 public class Namearrays {
-    public static void main(String[] args) {
+    public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         int size = sc.nextInt();
         String names[] = new String[size];
