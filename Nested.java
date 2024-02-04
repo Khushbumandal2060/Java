@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Nested {
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         int n = 5;
 
         // upper half

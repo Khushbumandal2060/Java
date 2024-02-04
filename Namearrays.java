@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
 public class Namearrays {
-    public static void main(String args[]) {
+    public static void main(Strings args[]) {
         Scanner sc = new Scanner(System.in);
         int size = sc.nextInt();
-        String names[] = new String[size];
+        Strings names[] = new Strings[size];
 
         //input
         for(int i=0; i<size; i++) {
